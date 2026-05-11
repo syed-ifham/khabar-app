@@ -1,4 +1,4 @@
 /.idea
-.env
+src/.env
 
 node_modules
