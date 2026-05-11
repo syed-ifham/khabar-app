@@ -17,4 +17,4 @@ const BUCKET_NAME = 'khabarApp';
 // await uploadSingleFile(supabase, './test/ss1.png', 'screenshots/ss1.png', BUCKET_NAME);
 
 // To test a bulk folder upload:
-await uploadFolder(supabase, './test', BUCKET_NAME, 'test');
+// await uploadFolder(supabase, './test', BUCKET_NAME, 'test');
